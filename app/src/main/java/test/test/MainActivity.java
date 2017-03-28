@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String str = "잘 반영되는지 봐보자.";
+        String str2 = "이건 새로 받아서 고친거지롱.";
     }
 }
